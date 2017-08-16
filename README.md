@@ -1,2 +1,0 @@
-# hellowworld
-python study
